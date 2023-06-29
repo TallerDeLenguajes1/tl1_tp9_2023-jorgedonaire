@@ -1,0 +1,15 @@
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\bin\Debug\net7.0\tl1_tp9_2023-jorgedonaire.exe
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\bin\Debug\net7.0\tl1_tp9_2023-jorgedonaire.deps.json
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\bin\Debug\net7.0\tl1_tp9_2023-jorgedonaire.runtimeconfig.json
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\bin\Debug\net7.0\tl1_tp9_2023-jorgedonaire.dll
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\bin\Debug\net7.0\tl1_tp9_2023-jorgedonaire.pdb
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.csproj.AssemblyReference.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.AssemblyInfoInputs.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.AssemblyInfo.cs
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.csproj.CoreCompileInputs.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.dll
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\refint\tl1_tp9_2023-jorgedonaire.dll
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.pdb
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\tl1_tp9_2023-jorgedonaire.genruntimeconfig.cache
+D:\Jorge\Facultad\Programacion\TallerdeLenguaje1\TP9\tl1_tp9_2023-jorgedonaire\obj\Debug\net7.0\ref\tl1_tp9_2023-jorgedonaire.dll
